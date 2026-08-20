@@ -12,10 +12,8 @@ O programa processa vários arquivos de uma pasta, inclusive em subpastas, e apr
 ## Demonstração
 
 <p align="center">
-  <img src="docs/interface-placeholder.svg" width="900" alt="Espaço reservado para captura da interface do programa">
+  <img src="docs/interface.png" width="900" alt="Interface da Calculadora de Laudas e Orçamentos">
 </p>
-
-> Para adicionar a captura real, salve-a como `docs/interface.png` e substitua, acima, `docs/interface-placeholder.svg` por `docs/interface.png`.
 
 ## Problema abordado
 
@@ -126,7 +124,7 @@ calculadora-laudas-word/
 ├── .gitignore
 ├── .github/workflows/tests.yml
 ├── docs/
-│   └── interface-placeholder.svg
+│   └── interface.png
 └── tests/
     └── test_formatacao.py
 ```
